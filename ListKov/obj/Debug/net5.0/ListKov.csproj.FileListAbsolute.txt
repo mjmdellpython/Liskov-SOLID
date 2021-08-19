@@ -1,0 +1,16 @@
+C:\Users\mjmde\Desktop\vs\solidProjects\ListKov\ListKov\ListKov\bin\Debug\net5.0\ListKov.exe
+C:\Users\mjmde\Desktop\vs\solidProjects\ListKov\ListKov\ListKov\bin\Debug\net5.0\ListKov.deps.json
+C:\Users\mjmde\Desktop\vs\solidProjects\ListKov\ListKov\ListKov\bin\Debug\net5.0\ListKov.runtimeconfig.json
+C:\Users\mjmde\Desktop\vs\solidProjects\ListKov\ListKov\ListKov\bin\Debug\net5.0\ListKov.runtimeconfig.dev.json
+C:\Users\mjmde\Desktop\vs\solidProjects\ListKov\ListKov\ListKov\bin\Debug\net5.0\ListKov.dll
+C:\Users\mjmde\Desktop\vs\solidProjects\ListKov\ListKov\ListKov\bin\Debug\net5.0\ref\ListKov.dll
+C:\Users\mjmde\Desktop\vs\solidProjects\ListKov\ListKov\ListKov\bin\Debug\net5.0\ListKov.pdb
+C:\Users\mjmde\Desktop\vs\solidProjects\ListKov\ListKov\ListKov\obj\Debug\net5.0\ListKov.csproj.AssemblyReference.cache
+C:\Users\mjmde\Desktop\vs\solidProjects\ListKov\ListKov\ListKov\obj\Debug\net5.0\ListKov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mjmde\Desktop\vs\solidProjects\ListKov\ListKov\ListKov\obj\Debug\net5.0\ListKov.AssemblyInfoInputs.cache
+C:\Users\mjmde\Desktop\vs\solidProjects\ListKov\ListKov\ListKov\obj\Debug\net5.0\ListKov.AssemblyInfo.cs
+C:\Users\mjmde\Desktop\vs\solidProjects\ListKov\ListKov\ListKov\obj\Debug\net5.0\ListKov.csproj.CoreCompileInputs.cache
+C:\Users\mjmde\Desktop\vs\solidProjects\ListKov\ListKov\ListKov\obj\Debug\net5.0\ListKov.dll
+C:\Users\mjmde\Desktop\vs\solidProjects\ListKov\ListKov\ListKov\obj\Debug\net5.0\ref\ListKov.dll
+C:\Users\mjmde\Desktop\vs\solidProjects\ListKov\ListKov\ListKov\obj\Debug\net5.0\ListKov.pdb
+C:\Users\mjmde\Desktop\vs\solidProjects\ListKov\ListKov\ListKov\obj\Debug\net5.0\ListKov.genruntimeconfig.cache

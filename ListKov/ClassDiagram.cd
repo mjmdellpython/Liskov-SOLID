@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="To classify the degrees for sturdent can use LisKove&#xD;&#xA;One of the main consept in SOLID princibles ">
+    <Position X="7.842" Y="2.692" Height="0.875" Width="2.425" />
+  </Comment>
+  <Class Name="ListKov.GeneralProcess">
+    <Position X="5.75" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAgBAAAAA=</HashCode>
+      <FileName>GeneralProcess.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ListKov.ListDegree">
+    <Position X="3.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>listDegree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ListKov.listOverDegree">
+    <Position X="4.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>listDegree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ListKov.listUnderDegree">
+    <Position X="2" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>listDegree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ListKov.Program">
+    <Position X="8.5" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
